@@ -3,7 +3,7 @@
 ### Установка
 Через GitHub:
 ```
-git clone
+git clone https://github.com/0xSn1kky/FreeKinoFilms.git
 ```
 Через ссылку:
 ```
