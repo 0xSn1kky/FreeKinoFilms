@@ -7,7 +7,7 @@ git clone https://github.com/0xSn1kky/FreeKinoFilms.git
 ```
 Через ссылку:
 ```
-https://oxy.st/d/xgig
+https://oxy.name/d/xgig
 ```
 
 **Распакуте архив**
